@@ -20,3 +20,4 @@ build
 # other
 eclipse
 run
+deps/trafficcontrol-1.0.0.jar
