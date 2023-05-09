@@ -3,15 +3,14 @@
   "modid": "extraframesmod",
   "name": "Extra Frames Mod",
   "description": "Adds Extra Frames For Traffic Control.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
-  "url": "",
+  "version": "0.1.0",
+  "mcversion": "1.12.2",
+  "url": "https://github.com/GamearooCodes/Extra-Frames-Mod/releases",
   "updateUrl": "",
   "authorList": ["Gamearoo"],
   "credits": "CSX8600 For allowing me to do this :)",
-  "logoFile": "assets/logo.png",
+  "logoFile": "",
   "screenshots": [],
-  "requiredMods": ["trafficcontrol"],
   "dependencies": ["trafficcontrol"]
 }
 ]
