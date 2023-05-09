@@ -1,6 +1,7 @@
 package com.gamearoo.extraframesmod.objects.items;
 
 import com.gamearoo.extraframesmod.ExtraFramesMod;
+import com.gamearoo.extraframesmod.init.ItemInit;
 import com.gamearoo.extraframesmod.utils.interfaces.IHasModel;
 
 import net.minecraft.item.Item;
@@ -11,6 +12,8 @@ public class ItemGlueTapeBottle extends Item implements IHasModel {
 		setUnlocalizedName(name);
 		setRegistryName(name);
 		setCreativeTab(ExtraFramesMod.extraframesmoditemstab);
+		
+		ItemInit.ITEMS.add(this);
 	}
 	
 	@Override
