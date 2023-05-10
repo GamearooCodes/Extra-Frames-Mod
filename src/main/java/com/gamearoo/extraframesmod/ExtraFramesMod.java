@@ -18,7 +18,7 @@ import net.minecraftforge.fml.common.event.FMLPostInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 import net.minecraftforge.fml.common.event.FMLServerStartingEvent;
 
-@Mod(modid = Reference.MOD_ID, version = Reference.VERSION, name = Reference.NAME, useMetadata = true, dependencies = "required-after:trafficcontrol")
+@Mod(modid = Reference.MOD_ID, version = Reference.VERSION, name = Reference.NAME, useMetadata = true, dependencies = "required-after:trafficcontrol@[1.0.0,]")
 public class ExtraFramesMod {
 	@Mod.Instance
 	public static ExtraFramesMod instance;
