@@ -2,6 +2,25 @@
 
 item.glue_tape_bottle.name=Glue Tape Bottle
 
+item.frame_tape_roll.white.name=White Frame Tape Roll
+item.frame_tape_roll.orange.name=Orange Frame Tape Roll
+item.frame_tape_roll.magenta.name=Magenta Frame Tape Roll
+item.frame_tape_roll.light_blue.name=Light Blue Frame Tape Roll
+item.frame_tape_roll.yellow.name=Yellow Frame Tape Roll
+item.frame_tape_roll.lime.name=Lime Frame Tape Roll
+item.frame_tape_roll.pink.name=Pink Frame Tape Roll
+item.frame_tape_roll.gray.name=Gray Frame Tape Roll
+item.frame_tape_roll.light_gray.name=Light Gray Frame Tape Roll
+item.frame_tape_roll.silver.name=Light Frame Tape Roll
+item.frame_tape_roll.cyan.name=Cyan Frame Tape Roll
+item.frame_tape_roll.purple.name=Purple Frame Tape Roll
+item.frame_tape_roll.blue.name=Blue Frame Tape Roll
+item.frame_tape_roll.brown.name=Brown Frame Tape Roll
+item.frame_tape_roll.green.name=Green Frame Tape Roll
+item.frame_tape_roll.red.name=Red Frame Tape Roll
+item.frame_tape_roll.black.name=Black Frame Tape Roll
+
 //Tabs
 
 itemGroup.extraframesmoditemstab=Extra Frames Mod (Items)
+

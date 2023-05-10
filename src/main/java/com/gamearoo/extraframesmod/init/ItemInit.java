@@ -11,6 +11,8 @@ public class ItemInit {
 		public static final List<Item> ITEMS = new ArrayList<Item>();
 		
 		public static final Item GLUE_TAPE_BOTTLE = new ItemGlueTapeBottle("glue_tape_bottle");
+		
+		public static final Item FRAME_TAPE_ROLL = new ItemFrameTape();
 
 	
 }

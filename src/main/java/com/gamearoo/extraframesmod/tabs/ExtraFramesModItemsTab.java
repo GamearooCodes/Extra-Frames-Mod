@@ -1,6 +1,6 @@
 package com.gamearoo.extraframesmod.tabs;
 
-import com.clussmanproductions.trafficcontrol.ModItems;
+
 import com.gamearoo.extraframesmod.init.ItemInit;
 
 import net.minecraft.creativetab.CreativeTabs;
@@ -14,6 +14,6 @@ public class ExtraFramesModItemsTab extends CreativeTabs {
 	}
 	@Override
 	public ItemStack getTabIconItem() {
-		return new ItemStack(ModItems.traffic_light_1_frame);
+		return new ItemStack(ItemInit.FRAME_TAPE_ROLL, 1, 0);
 	}
 }

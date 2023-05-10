@@ -1,5 +1,6 @@
 package com.gamearoo.extraframesmod.objects.items;
 
+import com.gamearoo.extraframesmod.Config;
 import com.gamearoo.extraframesmod.ExtraFramesMod;
 import com.gamearoo.extraframesmod.init.ItemInit;
 import com.gamearoo.extraframesmod.utils.interfaces.IHasModel;
@@ -18,7 +19,7 @@ public class ItemGlueTapeBottle extends Item implements IHasModel {
 	
 	@Override
 	public int getItemBurnTime(ItemStack itemStack) {
-		return 100;
+		return Config.glueBurnTime;
 	}
 	@Override
 	public void registerModels() {
