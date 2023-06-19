@@ -1,3 +1,5 @@
+This is a addon mod to Traffic Control By: Csx86000
+
 -------------------------------------------
 Source installation information for modders
 -------------------------------------------
