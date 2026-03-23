@@ -9,7 +9,6 @@
   "updateUrl": "",
   "authorList": ["Gamearoo"],
   "credits": "CSX8600 For allowing me to do this :)",
-  "logoFile": "assets/logo.png",
   "screenshots": [],
   "requiredMods": ["trafficcontrol"],
   "dependencies": ["trafficcontrol"]
